@@ -10,3 +10,6 @@ The project Blood Bank Management system is developed on java frame, NetBeans ID
 
 Login Page :
 ![Login Page_auto_x2](https://user-images.githubusercontent.com/96612997/147356830-2d8c06e2-be42-4528-bfcb-5c5dc6a97440.jpg)
+
+Home Page:
+![home_auto_x2](https://user-images.githubusercontent.com/96612997/147356929-fdcaca58-194e-4a19-81df-015372c8f354.jpg)
