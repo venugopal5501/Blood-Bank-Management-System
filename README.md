@@ -13,3 +13,6 @@ Login Page :
 
 Home Page:
 ![home_auto_x2](https://user-images.githubusercontent.com/96612997/147356929-fdcaca58-194e-4a19-81df-015372c8f354.jpg)
+
+Donor Registration :
+![donor registration page](https://user-images.githubusercontent.com/96612997/147357094-4854ed7d-1696-497a-aed9-df235f82e18b.png)
