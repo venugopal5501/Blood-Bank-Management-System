@@ -18,3 +18,16 @@ Donor Registration :
 ![Donor regitration](https://user-images.githubusercontent.com/96612997/147357598-cb958242-5a2b-45a2-88cc-1c03b7122b58.png)
 
 Update Donor Details :
+![update details](https://user-images.githubusercontent.com/96612997/147357723-69b3dd9c-0319-4978-a40f-4b85c72b2ef6.png)
+
+Search Blood Donor Address :
+
+Search Donor Blood Group :
+
+Blood Stock Increase :
+
+Blood Stock Decrease :
+
+Blood Stock Details :
+
+Delete Donor :
