@@ -12,3 +12,5 @@ Login Page :
 ![Login Page](https://user-images.githubusercontent.com/96612997/147355270-5f6e15ff-d3c0-4d00-b518-48655c21c47e.png)
 
 Home Page :
+![home](https://user-images.githubusercontent.com/96612997/147356412-0c706e4e-790b-4772-8515-aba59329696f.png)
+
