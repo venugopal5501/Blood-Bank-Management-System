@@ -9,3 +9,4 @@ Requirements :
 The project Blood Bank Management system is developed on java frame, NetBeans IDE 8.2 platform and supported by an SQL database to store blood and user specific details.
 
 Login Page :
+![Login Page_auto_x2](https://user-images.githubusercontent.com/96612997/147356830-2d8c06e2-be42-4528-bfcb-5c5dc6a97440.jpg)
