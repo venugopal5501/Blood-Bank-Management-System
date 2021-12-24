@@ -15,5 +15,6 @@ Home Page:
 ![home_auto_x2](https://user-images.githubusercontent.com/96612997/147356929-fdcaca58-194e-4a19-81df-015372c8f354.jpg)
 
 Donor Registration :
+![Donor regitration](https://user-images.githubusercontent.com/96612997/147357598-cb958242-5a2b-45a2-88cc-1c03b7122b58.png)
 
 Update Donor Details :
