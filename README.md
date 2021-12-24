@@ -8,4 +8,3 @@ The main objective of the Blood Bank Management System is to manage the details 
 Requirements :
 
 The project Blood Bank Management system is developed on java frame, NetBeans IDE 8.2 platform and supported by an SQL database to store blood and user specific details.
-![Login Page](https://user-images.githubusercontent.com/96612997/147353828-ba61bb9e-8de8-467b-8ca6-734aaa592844.png)
