@@ -9,23 +9,24 @@ Requirements :
 
 The project Blood Bank Management system is developed on java frame, NetBeans IDE 8.2 platform and supported by an SQL database to store blood and user specific details.
 
-Login Page :
+1.Login Page :
+![login page](https://user-images.githubusercontent.com/96612997/147398272-d98f0a15-be00-4f78-92cd-6d86a229df00.png)
 
-Home Page:
+2.Home Page:
 
 
-Donor Registration :
+3.Donor Registration :
 
-Update Donor Details :
+4.Update Donor Details :
 
-Search Blood Donor Address :
+5.Search Blood Donor Address :
 
-Search Donor Blood Group :
+6.Search Donor Blood Group :
 
-Blood Stock Increase :
+7.Blood Stock Increase :
 
-Blood Stock Decrease :
+8.Blood Stock Decrease :
 
-Blood Stock Details :
+9.Blood Stock Details :
 
-Delete Donor :
+10.Delete Donor :
