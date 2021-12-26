@@ -28,6 +28,7 @@ The project Blood Bank Management system is developed on java frame, NetBeans ID
 ![donor location](https://user-images.githubusercontent.com/96612997/147398311-3f6dbe30-728f-4d02-a648-29a41e80e0f6.png)
 
 7.Search Donor Blood Group :
+![blood group](https://user-images.githubusercontent.com/96612997/147398315-8ce0d37b-e6d1-421b-8138-8def45b18694.png)
 
 8.Blood Stock Increase :
 
