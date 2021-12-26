@@ -1,4 +1,5 @@
 # Blood-Bank-Management-System
+              
               Blood Bank Management System is an application to design people who are interested in donating blood get registered using this application. The main aim of developing this application to provide blood to the people who are in need of blood. The project maintaining all the information pertaining to blood donors, different blood groups available in each blood bank and help them manage in a better way. This application intended with simplicity and user friendly.
                         
 Requirements :
