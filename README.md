@@ -34,6 +34,7 @@ The project Blood Bank Management system is developed on java frame, NetBeans ID
 ![stock increase](https://user-images.githubusercontent.com/96612997/147398321-b2603260-f1ee-4476-98b3-e598e5d66e32.png)
 
 9.Blood Stock Decrease :
+![stock decrease](https://user-images.githubusercontent.com/96612997/147398324-7c20fa62-730b-4c93-a6de-b01f53610919.png)
 
 10.Blood Stock Details :
 
