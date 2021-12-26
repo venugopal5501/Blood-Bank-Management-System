@@ -1,13 +1,10 @@
 # Blood-Bank-Management-System
-Blood Bank Management System is a (DBMS) Database Management System based application using Java Programming language.
-
-Objective & Purpose :
-
-The main objective of the Blood Bank Management System is to manage the details of Blood, Donor Details, Blood Group and Blood Stock Details. The purpose of this project is to build an application program to reduce the manual work for managing the blood group, Donor details and Blood Stock Details.
-
+BLOOD BANK MANAGEMENT SYSTEM
+             Blood Bank Management System is an application to design people who are interested in donating blood get registered using this application. The main aim of developing this application to provide blood to the people who are in need of blood. The project maintaining all the information pertaining to blood donors, different blood groups available in each blood bank and help them manage in a better way. This application intended with simplicity and user friendly.
+            
 Requirements :
 
-The project Blood Bank Management system is developed on java frame, NetBeans IDE 8.2 platform and supported by an SQL database to store blood and user specific details.
+The project Blood Bank Management system is developed in java frame, NetBeans IDE 8.2 platform and supported by an MySQL database.
 
 1.Login Page :
 ![login page](https://user-images.githubusercontent.com/96612997/147398272-d98f0a15-be00-4f78-92cd-6d86a229df00.png)
