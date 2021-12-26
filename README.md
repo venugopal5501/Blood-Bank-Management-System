@@ -19,6 +19,7 @@ The project Blood Bank Management system is developed on java frame, NetBeans ID
 ![donor registration](https://user-images.githubusercontent.com/96612997/147398302-3cd6e517-11b4-428c-9132-78f13df1ab49.png)
 
 4.Update Donor Details :
+![update donor details](https://user-images.githubusercontent.com/96612997/147398305-5edc3a7f-e791-4fb4-a8b2-15b3c0d6a804.png)
 
 5.Search Blood Donor Address :
 
