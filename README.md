@@ -21,14 +21,16 @@ The project Blood Bank Management system is developed on java frame, NetBeans ID
 4.Update Donor Details :
 ![update donor details](https://user-images.githubusercontent.com/96612997/147398305-5edc3a7f-e791-4fb4-a8b2-15b3c0d6a804.png)
 
-5.Search Blood Donor Address :
+5.All Details
 
-6.Search Donor Blood Group :
+6.Search Blood Donor Address :
 
-7.Blood Stock Increase :
+7.Search Donor Blood Group :
 
-8.Blood Stock Decrease :
+8.Blood Stock Increase :
 
-9.Blood Stock Details :
+9.Blood Stock Decrease :
 
-10.Delete Donor :
+10.Blood Stock Details :
+
+11.Delete Donor :
